@@ -13,7 +13,7 @@ export async function getStaticProps() {
     }
   }
 }
-
+// just a comment to test my commits
 export default function Home({allPostsData}) {
   return (
     <Layout home>
